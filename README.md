@@ -169,6 +169,14 @@ https://github.com/neD555/ter-homeworks-04-hw-04.md/pull/1
 3.type=list(string), description="список ip-адресов" — проверка, что все адреса верны. Тесты: ["192.168.0.1", "1.1.1.1", "127.0.0.1"] и ["192.168.0.1", "1.1.1.1", "1270.0.0.1"].
 
 ### Ответ.
+<img width="384" height="107" alt="Задание 4(1)" src="https://github.com/user-attachments/assets/29e89078-0252-4882-a402-7387851a792b" />
+
+<img width="433" height="109" alt="Задание 4(2)" src="https://github.com/user-attachments/assets/54b6c531-da02-4931-8207-7013e7bf44ce" />
+
+<img width="513" height="280" alt="Задание 4(3)" src="https://github.com/user-attachments/assets/7a68b8df-316a-4648-85f0-70f3bf676c1f" />
+
+<img width="519" height="283" alt="Задание 4(4)" src="https://github.com/user-attachments/assets/508921eb-613a-42e8-969c-7b2e4ad3f1af" />
+
 
 
 
